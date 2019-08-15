@@ -24,3 +24,6 @@ A simple demo application using Google ARCore to implement image detection based
 6. Navigate to the 'Weather UI' widget under the UI directory. 
 7. Find the 'App ID' local variable and replace {YOUR OPENWEATHERAPI APP ID} with your OpenWeatherAPI App ID in its default value.
 8. Compile, Save, and launch the application on your ARCore-compatible Android device.
+
+#Demo 
+![](Demo2_1.gif)
